@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1409866823 source:c:\users\jsw\google\rsa_gui\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<Commdlg.h>
+	<math.h>
+
+1409865480 source:c:\users\jsw\google\rsa_gui\rsa.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
